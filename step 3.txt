@@ -1,0 +1,13 @@
+Week 3: Advanced Features and Refinement
+Scoring and Progress Tracking:
+
+Complete the implementation of scoring and display the final score after a quiz.
+Allow users to view their past quiz attempts and scores.
+Optional Features:
+
+If time permits, start working on the leaderboard.
+Implement error handling, input validation, and security features.
+UI/UX Improvements:
+
+Refine the user interface for better usability.
+Ensure the layout and navigation are consistent.
