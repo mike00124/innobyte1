@@ -1,0 +1,13 @@
+1. Setting Up the Project Structure
+Project Structure:
+
+src/
+com/quizapp/
+Main.java
+User.java
+Quiz.java
+Question.java
+Database.java
+AuthService.java
+QuizService.java
+UIService.java
