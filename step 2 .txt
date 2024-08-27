@@ -1,0 +1,13 @@
+Week 2: Core Features Implementation
+Quiz Management:
+
+Develop the admin interface to create, edit, and delete quizzes and questions.
+Implement CRUD operations for quiz and question management using JDBC.
+Quiz Taking Functionality:
+
+Allow users to browse and select quizzes.
+Implement the quiz-taking interface, displaying one question at a time with feedback.
+Data Persistence:
+
+Ensure quizzes, questions, and user progress are correctly stored in the database.
+Begin implementing user progress tracking.
